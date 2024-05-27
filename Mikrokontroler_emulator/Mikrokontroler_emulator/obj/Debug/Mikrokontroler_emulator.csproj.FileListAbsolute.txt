@@ -1,0 +1,10 @@
+C:\Users\kubad\source\repos\Mikrokontroler_emulator\Mikrokontroler_emulator\bin\Debug\Mikrokontroler_emulator.exe.config
+C:\Users\kubad\source\repos\Mikrokontroler_emulator\Mikrokontroler_emulator\bin\Debug\Mikrokontroler_emulator.exe
+C:\Users\kubad\source\repos\Mikrokontroler_emulator\Mikrokontroler_emulator\bin\Debug\Mikrokontroler_emulator.pdb
+C:\Users\kubad\source\repos\Mikrokontroler_emulator\Mikrokontroler_emulator\obj\Debug\Mikrokontroler_emulator.csproj.AssemblyReference.cache
+C:\Users\kubad\source\repos\Mikrokontroler_emulator\Mikrokontroler_emulator\obj\Debug\Mikrokontroler_emulator.Form1.resources
+C:\Users\kubad\source\repos\Mikrokontroler_emulator\Mikrokontroler_emulator\obj\Debug\Mikrokontroler_emulator.Properties.Resources.resources
+C:\Users\kubad\source\repos\Mikrokontroler_emulator\Mikrokontroler_emulator\obj\Debug\Mikrokontroler_emulator.csproj.GenerateResource.cache
+C:\Users\kubad\source\repos\Mikrokontroler_emulator\Mikrokontroler_emulator\obj\Debug\Mikrokontroler_emulator.csproj.CoreCompileInputs.cache
+C:\Users\kubad\source\repos\Mikrokontroler_emulator\Mikrokontroler_emulator\obj\Debug\Mikrokontroler_emulator.exe
+C:\Users\kubad\source\repos\Mikrokontroler_emulator\Mikrokontroler_emulator\obj\Debug\Mikrokontroler_emulator.pdb
